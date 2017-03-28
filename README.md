@@ -3,7 +3,7 @@
 
 The OpenDXL Framework is a set of components which brings capabilities to inject, receive and elaborate DXL messages adding fast prototyping capabilities to the existing [McAfee OpenDXL Python Client](https://github.com/opendxl/opendxl-client-python) github project.
 
-![Alt text](https://cloud.githubusercontent.com/assets/24607076/22893632/235cdba2-f20e-11e6-9834-074c8d7979fb.png "Structure")
+![Alt text](https://cloud.githubusercontent.com/assets/24607076/24403564/63ce7e70-13b5-11e7-977f-8de366959385.png "Structure")
 
 
 **Input Data** injections are made following a standard DXL traffic template and the concept of **DXL_message** is defined as follow:
