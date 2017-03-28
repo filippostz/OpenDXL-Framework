@@ -23,7 +23,7 @@ Every Add-On can provide two different kind of services:
 ## Use cases
 
 * Fail2Ban [Wiki](https://github.com/opendxl-community/OpenDXL-Framework/wiki/Fail2Ban)
-* VirusTotal [Wiki](https://github.com/filippostz/OpenDXL-Framework/wiki/VirusTotal)
+* VirusTotal [Wiki](https://github.com/opendxl-community/OpenDXL-Framework/wiki/VirusTotal)
 * McAfee WebGateway TODO
 * IPfire TODO
 
